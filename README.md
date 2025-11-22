@@ -22,7 +22,13 @@
 
 ###
 
-<p align="left">I’m a Software Engineering Lead with extensive hands-on experience in Web Development and SaaS Platforms, specializing in Laravel, Vue.js, and Nuxt 3.<br><br>I have a strong foundation in Microservices Architecture, Event-Driven Design, and Distributed Systems, with both practical and theoretical expertise.<br><br>I’m passionate about system optimization, automation, and cloud infrastructure, and have worked with various DevOps tools and practices including Docker, Kubernetes, Jenkins, and AWS.<br><br>I enjoy leading engineering teams, mentoring developers, and driving projects from concept to deployment — always with a focus on performance, reliability, and scalability.</p>
+<p align="left">
+ <strong>Full Stack Development:</strong> 4 years of experience designing and building scalable SaaS applications, ERP platforms, and LMS systems using <strong>Laravel, PHP, Vue.js, and Nuxt.js</strong>.<br><br>
+ <strong>Architecture & Design:</strong> Skilled in <strong>API-driven development, modular architectures, event-driven design, microservices</strong>, and distributed systems concepts.<br><br>
+ <strong>Optimization & DevOps:</strong> Experienced in <strong>system optimization, automation, cloud infrastructure</strong>, and DevOps practices including <strong>Docker, Kubernetes, Linux, and CI/CD pipelines</strong>.<br><br>
+ <strong>Leadership & Delivery:</strong> Adept at <strong>leading technical teams</strong>, driving projects from concept to deployment, and delivering high-performance, secure, and maintainable systems that provide real business value.
+</p>
+
 
 ###
 
