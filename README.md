@@ -23,7 +23,7 @@
 ###
 
 <p align="left">
-<strong>Full Stack Engineer | Laravel, PHP, Vue.js, Nuxt.js</strong><br><br>
+<strong>Full Stack Engineer | Laravel, PHP, Vue.js, Nuxt.js</strong> 
 4 years of experience designing and building scalable <strong>SaaS applications, ERP platforms, and LMS systems</strong>. Skilled in <strong>API-driven development, modular architectures, event-driven design, microservices</strong>, and distributed systems.<br><br>
 Experienced in <strong>system optimization, automation, cloud infrastructure</strong>, and DevOps practices including <strong>Docker, Kubernetes, Linux</strong>, and <strong>CI/CD pipelines</strong>.<br><br>
 Adept at <strong>leading technical teams</strong>, mentoring developers, and driving projects from concept to deployment, delivering high-performance, secure, and maintainable systems that provide real business value.
