@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Full-Stack Web Development Engineer (Laravel & Nuxt.js) | SQL & NoSQL | Distributed Systems Awareness | Cloud & DevOps Enthusiast</h3>
+<h3 align="left">Full-Stack Web Development Engineer (Laravel, Vue.js & Nuxt.js) | SQL & NoSQL | Distributed Systems Awareness | Cloud & DevOps Enthusiast</h3>
 
 ###
 
